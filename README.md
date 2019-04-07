@@ -14,6 +14,16 @@ Traditionally he would ask `Kathy` and `Joe` for their respecive public keys and
 
 However NuCyphers proxy re-encryption allows us to encrypt the data once, then re-encrypt new keys that will allow the two parties access. In this system we only encrypt the 1 TB once, and only store 1 TB on IPFS, this saves us storage space, encryption time, and ecryption computations. 
 
+### Resources
+
+https://medium.com/@david.richard.holtz/hako-3825c3a033d7
+
+https://www.youtube.com/watch?v=_0Jl836ETLo
+
+https://github.com/drbh/hako
+
+
+
 ### Benefits
 
 ✅ **Y**ou **O**nly **E**ncrypt **O**nce **(Y.O.E.O kinda like Y.O.L.O)**  
