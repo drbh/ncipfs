@@ -270,7 +270,7 @@ def creat_nucid(alice, cid, enc_pubkey, sig_pubkey, label):
                                base58.b58encode(bytes(alice.stamp)).decode("utf-8"),
                                label.decode("utf-8"))
 
-    store_url = "ncipfs://" + store_url
+    store_url = "nucid://" + store_url
 
     return store_url
 
