@@ -1,3 +1,5 @@
+**Note: THIS REPO IS NOT MAINTAINED - the NuCypher dep has had breaking changes and this repo should only be used for refernce purposes**
+
 # NCIPFS
 
 [![Python 3.6](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
